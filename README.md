@@ -10,4 +10,4 @@ Fingerprint: `FDE5 DBCF 1792 4276 532B FBCA DDA4 D1A9 06FD 918F` (e.g. https://k
 
 My public key also includes my e-mail, should you need to contact me, which is not listed elsewhere for anti-spam reasons.
 
-Commits should now show as "Verified" on GitHub, any unsigned commits from after this date should be treated with caution.
+Commits should now show as "**Verified**" on GitHub, any unsigned commits from after this date should be treated with caution.
