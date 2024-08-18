@@ -1,6 +1,6 @@
 Starting **18.08.2024** you can verify my commits and any signed release packages for authenticity using PGP/GPG.
 
-You can import my [PGP/GPG](desertwitch.gpg) key directly from public keyservers or GitHub, otherwise download it using its fingerprint.
+You can import my [PGP/GPG key](desertwitch.gpg) directly from public keyservers or GitHub, otherwise download it using its fingerprint.
 
 Direct Import from Public Keyservers: `gpg --recv-keys FDE5DBCF17924276532BFBCADDA4D1A906FD918F`
 
