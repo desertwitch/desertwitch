@@ -8,6 +8,6 @@ Direct Import from GitHub: `gpg --fetch-keys https://raw.githubusercontent.com/d
 
 Fingerprint: `FDE5DBCF17924276532BFBCADDA4D1A906FD918F` (listed on e.g. https://keys.openpgp.org or https://keyserver.ubuntu.com/)
 
-My public key also includes my e-mail, should you need to contact me, which is not listed anywhere else for anti-spam reasons.
+My public key also includes my e-mail, should you need to contact me, which is not listed elsewhere for anti-spam reasons.
 
 Commits should now show as "Verified" on GitHub, any unsigned commits from after this date should be treated with caution.
