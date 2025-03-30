@@ -4,4 +4,4 @@ I focus on bringing existing software to the Unraid OS ecosystem, with my plugin
 
 I'm passionate about contributing to various open source projects, especially around lower-level C and the Golang space.
 
-Starting **18.08.2024** you can [verify my commits and any signed release packages](SECURITY.md) for authenticity using PGP/GPG.
+Note: Starting **18.08.2024** you can [verify my commits and any signed release packages](SECURITY.md) for authenticity using PGP/GPG.
