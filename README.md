@@ -2,6 +2,6 @@
 
 I mainly focus on bringing software to the Unraid OS ecosystem, with plugins now enhancing more than 20,000 servers.
 
-I'm passionate about contributing to open source projects, working with connected UPS devices and the Go programming language.
+I'm passionate about contributing to open source projects, working with UPS devices and the Go programming language.
 
 **Note:** Starting **18.08.2024**, you're invited to [verify my commits and any signed release packages](SECURITY.md) for authenticity using PGP/GPG.
