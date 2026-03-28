@@ -4,6 +4,6 @@ I mainly focus on bringing software to the Unraid OS ecosystem, with plugins now
 
 You can find them in Unraid OS's application store "Community Applications", with support provided on the Unraid forums.
 
-I'm also passionate about contributing to open source projects, the Go programming language and working with UPS devices.
+I'm passionate about contributing to open source projects, the C and Go programming languages, as well as working with UPS devices.
 
 **Note:** Starting **18.08.2024**, you're invited to [verify my commits and any signed release packages](SECURITY.md) for authenticity using PGP/GPG.
