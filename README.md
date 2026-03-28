@@ -1,4 +1,4 @@
-👋 Hi, I'm **Rysz** - a data storage and open source enthusiast from Europe.
+Hi, I'm **Rysz** - a data storage and open source enthusiast from Europe.
 
 I mainly focus on bringing software to the Unraid OS ecosystem, with plugins now enhancing more than 65,000 servers.
 
