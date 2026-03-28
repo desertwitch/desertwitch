@@ -2,7 +2,7 @@ Hi, I'm **Rysz** - a data storage and open source enthusiast from Europe.
 
 I mainly focus on bringing software to the Unraid OS ecosystem, with plugins now enhancing more than 65,000 servers.
 
-You can find them in Unraid OS's application store "Community Applications", with support provided on the Unraid forums.
+You can find these in Unraid OS's application store "Community Applications", with support provided on the Unraid forums.
 
 I also enjoy contributing to open source projects, the C and Go programming languages, as well as working with UPS devices.
 
