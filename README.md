@@ -1,6 +1,6 @@
 Hi, I'm **Rysz** - a data storage and open source enthusiast from Europe.
 
-I mainly focus on bringing software to the Unraid OS ecosystem, with plugins now enhancing more than 65,000 servers.
+I mainly focus on bringing software to the Unraid OS ecosystem, with plugins now enhancing more than 80,000 servers.
 
 You can find these in Unraid OS's application store "Community Applications", with support provided on the Unraid forums.
 
